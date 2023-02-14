@@ -1,4 +1,12 @@
 # CS361-Assignment-8
+
+
+COMMUNICATION CONTRACT
+
+We will communicate using Discord, and the expectation for responsiveness will be about 18 hours, we will make sure to finish the work at least 2 days before the deadline, the privacy of each one must be respected, the space must be given to each other for their suggestions, we will learn from each other instead of copying, and set a clear purpose, objective, and scope for our projects. 
+
+
+
 RABBITMQ Microservice Implementation
 --INSTALLATION--
 
@@ -34,4 +42,7 @@ Run python Sender.py on a seperate terminal
 
 
 ![routing](https://user-images.githubusercontent.com/91502431/218616065-b35486a0-4a59-46be-8391-a700ac09fa0a.png)
+
+
+
 

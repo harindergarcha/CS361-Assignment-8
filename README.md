@@ -31,3 +31,7 @@ Once the queue is matched, the data buffer will fill the Receiver's buffer and t
 
 Run python Receiver.py on a terminal
 Run python Sender.py on a seperate terminal
+
+
+![routing](https://user-images.githubusercontent.com/91502431/218616065-b35486a0-4a59-46be-8391-a700ac09fa0a.png)
+
